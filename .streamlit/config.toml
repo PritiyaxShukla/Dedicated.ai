@@ -1,0 +1,7 @@
+[theme]
+primaryColor = "#2563EB"         # Clean bright blue for highlights
+backgroundColor = "#FCFCF9"      # Soft neutral light grey/white background
+secondaryBackgroundColor = "#E7F1EF" # Light bluish-grey sidebar
+textColor = "#111827"            # Dark grey (less harsh than black)
+font = "sans serif"
+
